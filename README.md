@@ -9,3 +9,9 @@
   >🟢Works perfectly on the basic version of the microcomputer.
 
 ## Games
+[1) BULLSnCOWS.BAS](src/BULLSnCOWS.BAS)
+  >The classic game "Bulls and Cows"
+  >
+  >The computer thinks of a 4-digit number and you need to guess the numbers the computer has thought of.
+  >
+  >🟢Works perfectly on the basic version of the microcomputer.

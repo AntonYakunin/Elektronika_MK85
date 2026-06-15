@@ -8,6 +8,11 @@
   >
   >🟢Отлично работает на базовой версии микрокомпьютера.
 
+  [2) D2Any.BAS](src/D2Any.BAS)
+  >Программа переводит десятичное число "d" в число с основанием "m" (от 2 до 36)
+  >
+  >🟢Works perfectly on the basic version of the microcomputer.
+
 ## Игры
 
   [1) BULLSnCOWS.BAS](src/BULLSnCOWS.BAS)

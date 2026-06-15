@@ -9,7 +9,7 @@
   >🟢Works perfectly on the basic version of the microcomputer.
 
   [2) D2Any.BAS](src/D2Any.BAS)
-  >The program converts a decimal number to a number with a base m (from 2 to 36)
+  >The program converts a decimal number "d" to a number with a base "m" (from 2 to 36)
   >
   >🟢Works perfectly on the basic version of the microcomputer.
 

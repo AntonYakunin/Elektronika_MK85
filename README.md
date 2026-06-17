@@ -6,12 +6,18 @@
   >A program for finding the roots of a quadratic equation. Direct equation input (built-in parsing)
   >Equations must be entered without spaces.
   >
-  >🟢Works perfectly on the basic version of the microcomputer.
+  >🟢 Works perfectly on the basic version of the microcomputer.
 
   [2) D2Any.BAS](src/D2Any.BAS)
   >The program converts a decimal number "d" to a number with a base "m" (from 2 to 36)
   >
-  >🟢Works perfectly on the basic version of the microcomputer.
+  >🟢 Works perfectly on the basic version of the microcomputer.
+
+  [3) multicalc.BAS](src/multicalc.BAS)
+  >The program performs mathematical operations with two numbers A and B, which can be binary, octal, decimal, hexadecimal.
+  >The input of numbers is carried out according to the template: number, base. Example: 10,2
+  >
+  >🟢 Works perfectly on the basic version of the microcomputer.
 
 ## Games
 [1) BULLSnCOWS.BAS](src/BULLSnCOWS.BAS)
@@ -19,4 +25,4 @@
   >
   >The computer thinks of a 4-digit number and you need to guess the numbers the computer has thought of.
   >
-  >🟢Works perfectly on the basic version of the microcomputer.
+  >🟢 Works perfectly on the basic version of the microcomputer.
